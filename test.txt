@@ -1,0 +1,16 @@
+Amplituda=5
+Okres=10
+Wypelnienie=0.5
+TypSygnalu=0
+K=0.5
+Ti=5
+Td=0.2
+Interwal=200
+Zaklocenie=0.01
+Opoznienie=1
+A1=-0.4
+A2=0
+A3=0
+B1=0.6
+B2=0
+B3=0
